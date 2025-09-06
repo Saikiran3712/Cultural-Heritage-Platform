@@ -29,7 +29,7 @@ headless = true
 address = "0.0.0.0"
 port = 8501
 
-[browser]
+[browser] 
 gatherUsageStats = false
 """
         with open(config_file, 'w') as f:
